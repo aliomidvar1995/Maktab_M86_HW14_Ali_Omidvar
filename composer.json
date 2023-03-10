@@ -1,0 +1,17 @@
+{
+    "name": "pourhossein/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Omidvar",
+            "email": "aliomidvar14011995@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
